@@ -20,4 +20,4 @@ Wordpress Hacking
 
 * [wpscan](https://github.com/wpscanteam/wpscan)
 
-  An Enumerate tools to enumerate such a version, plugins, themes, username, or even databases
+Enumerate tools to enumerate such a version, such as plugins, themes, usernames, or even databases. 
