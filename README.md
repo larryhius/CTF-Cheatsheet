@@ -17,3 +17,4 @@ Web-Exploitation
 
 Wordpress Hacking
 ----------------------
+*[wpscan](https://github.com/wpscanteam/wpscan)
