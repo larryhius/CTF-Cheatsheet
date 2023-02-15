@@ -1,6 +1,6 @@
 # CTF Cheatsheet
 
-This cheatsheet for beginner who want to dive into CTF.
+This cheatsheet for beginner who want to dive into CTF challenges. Tools, command or maybe some trivia that may can help the CTF Challenge.
 
 ----------
 # Table of Content
