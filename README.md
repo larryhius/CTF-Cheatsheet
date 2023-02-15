@@ -14,3 +14,5 @@ This cheatsheet is for beginners who want to dive into CTF challenges. Reference
 
 Web-Exploitation
 ===================
+
+Wordpress Hacking
